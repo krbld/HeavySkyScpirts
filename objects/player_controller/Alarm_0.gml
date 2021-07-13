@@ -1,0 +1,1 @@
+global.player_is_alive = true;
